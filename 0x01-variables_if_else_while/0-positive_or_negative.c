@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /*
- *main - Entry point
- *Description: this code tests if its a positive or negative number
+ *Main - Entry point
+ *Description - this code tests if its a positive or negative number
  *Return: Always 0 (Success)
 */
 int main(void)

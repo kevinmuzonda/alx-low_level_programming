@@ -5,8 +5,8 @@
  */
 int add(int, int)
 {
-	int a = 89;
-	int b = 9;
+	 a = 89;
+	 b = 9;
 	int  sum;
 
 	sum = a + b;

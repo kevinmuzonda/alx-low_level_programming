@@ -3,14 +3,9 @@
  *add - adds two numbers and returns result
  *Return:sum of two integers
  */
-int add(int, int)
+int add(int a, int b)
 {
-	 a = 89;
-	 b = 9;
-	int  sum;
-
-	sum = a + b;
-	_putchar(sum);
+	 return (a + b);
 }
 
 

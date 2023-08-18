@@ -25,14 +25,10 @@ int main(void)
 		{
 			printf("Buzz ");
 		}
-		else if (a == 1)
+		else
 		{
 			printf("%d ", a);
 		}
-		  else
-		{
-			printf("%d ", a);
-	 	}
 	}
 	printf("\n");
 	return (0);

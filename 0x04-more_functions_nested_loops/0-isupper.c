@@ -6,12 +6,13 @@
  */
 int _isupper(int c)
 {
-	if ((c == 'A') || (c == 'Z'))
+	char i;
+	int upper = 0;
+
+	for (i = 'A'; i  <= 'Z'; i++)
 	{
-		return (1);
+		if (i == c)
+			upper = 1;
 	}
-	else
-	{
-		return (0);
-	}
+	return (upper);
 }

@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
-  * Reset_to_98 - a pointer function that takes an int as a parameter
+  * reset_to_98- a pointer function updates the value to 98
   * @n: value
   * Return: Always(success)
  */

@@ -12,6 +12,6 @@ int _strlen(char *s)
 	do {
 		length++;
 
-	} while (s[length]);
+	} while (s[length] != '\0');
 	return (length);
 }

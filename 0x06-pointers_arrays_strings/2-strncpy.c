@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-  * _trncpy - copies a string2 into string1
+  * _strncpy - copies a string2 into string1
   * @dest: this is a parameter
   * @src: this is a parameter
   * @n: value

@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-  * chessboard - prints a chessboard pattern
+  * print_chessboard - prints a chessboard pattern
   * @a: this is an array
   * Return: Always(success)
  */

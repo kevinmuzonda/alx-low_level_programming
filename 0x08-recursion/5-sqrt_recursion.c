@@ -3,8 +3,8 @@
 
 /**
   * square_root - function that returns a sqaure root
-  * @a: input number.
-  * @b: second input.
+  * @i: input number.
+  * @j: second input.
   * Return: always(succes).
  */
 int square_root(int i, int j)

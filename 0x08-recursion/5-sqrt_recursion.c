@@ -7,7 +7,7 @@
   * @j: second input.
   * Return: always(succes).
  */
-int square_root(int i, int j)
+int square_root(int j, int i)
 {
 	if (i * i > j)
 	{
@@ -30,5 +30,5 @@ int _sqrt_recursion(int n)
 	{
 		return (-1);
 	}
-	return (square_root(n, 1));
+	return (square_root(n, 0));
 }

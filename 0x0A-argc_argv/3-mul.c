@@ -5,8 +5,6 @@
  * main - multiply two numbers
  * @argc: contains integer
  * @argv: contains string variables
- * @a: int value
- * @b: int value
  * Return: always(success)
 */
 int main(int argc, char *argv[])

@@ -1,1 +1,1 @@
-This is my readme for static libraries
+This is a readme on static libabries

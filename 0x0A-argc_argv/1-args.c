@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
-  * main - program prints the num of arguments passwed 
+  * main - program prints the num of arguments password
   * @argc: contains integer arguments
   * @argv: contains string argument
   * Return: always(success)

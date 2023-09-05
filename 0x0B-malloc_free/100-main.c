@@ -20,4 +20,3 @@ int main(int ac, char *av[])
     free(s);
     return (0);
 }
-

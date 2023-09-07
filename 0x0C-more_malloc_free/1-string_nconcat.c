@@ -4,7 +4,7 @@
 /**
  * string_nconcat - concatenates two strings.
  * @s1: char s1 parameter
- * @s2: char s2 param
+ * @s2: char s2 parameter
  * @n: amount of char s1 to add char s2
  * Return: pointer (memory), If the function fails, it should return NULL
  */
@@ -48,9 +48,13 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 	while (i < lsout)
 	{
 		if (i < ls1)
+		{
 			sout[i] = s1[i];
+		}
 		else
+		{
 			sout[i] = s2[i - ls1];
+		}
 		i++;
 	}
 

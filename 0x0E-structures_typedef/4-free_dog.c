@@ -7,7 +7,7 @@
  * @name: dogs name
  * @age: dogs age
  * @owner: dogs owner
- * Return: always(success)
+ * Return: Always(success)
  */
 
 dog_t *new_dog(char *name, float age, char *owner)

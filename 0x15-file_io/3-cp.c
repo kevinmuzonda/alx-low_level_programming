@@ -51,7 +51,7 @@ int main(int argc, char **argv)
 }
 /**
   * close_file - function that  closes the file
-  * @file: file information
+  * @f: file information
   * Return: always (success)
   */
 void close_file(int f)

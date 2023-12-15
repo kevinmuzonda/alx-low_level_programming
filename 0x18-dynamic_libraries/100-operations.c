@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "operations.h"
 
 int add(int a, int b)
 {

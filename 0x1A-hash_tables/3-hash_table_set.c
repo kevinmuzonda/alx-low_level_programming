@@ -1,12 +1,12 @@
 #include "hash_tables.h"
 
 /**
- * create_item - This function creates items for the hashtable array
+ * hash_table_set - Adds an element to the hash table
  * i.e the key:value pair contained in the hashtable
  * @key: The key for the hashtable
  * @value: The equivalent value for the key
  * @ht: A pointer to the hash table.
- * Return: The node or the item created
+ * Return: 1 if successful and 0 otherwise
  */
 
 int hash_table_set(hash_table_t *ht, const char *key, const char *value)
